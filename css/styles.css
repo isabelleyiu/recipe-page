@@ -1,5 +1,6 @@
 body {
     background-color:#FAEDEC;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -7,24 +8,30 @@ h1 {
 }
 
 img {
-    width: 600px;
+    width: 650px;
 }
-
-
 
 .top {
     text-align: center;
 }
 
 .left {
-    width: 600px;
+    width: 650px;
     float: left;
     margin-top: 30px;
+    margin-left: 30px;
 }
 
 .right {
-    width: 600px;
+    width: 650px;
     float: left;
     margin-left: 30px;
+}
 
+ol li {
+    margin-bottom: 20px;
+}
+
+li a:hover {
+    color:blue;
 }
