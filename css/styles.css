@@ -1,0 +1,25 @@
+body {
+    background-color:#FAEDEC;
+}
+
+h1 {
+    font-family: 'Coiny', cursive;
+}
+
+img {
+    width: 600px;
+}
+
+.description {
+    width: 600px;
+}
+
+.left {
+    width: 600px;
+    float: left;
+}
+
+.right {
+    width: 600px;
+    float: left;
+}
