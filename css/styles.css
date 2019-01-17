@@ -9,15 +9,22 @@
     margin-top: 20px;
 }
 
-td {
+#bootstrap-overrides td {
     text-align: center;
+    border: 1px dashed grey;
 }
 
-tr th{
+#bootstrap-overrides tr th{
     text-align: center;
     font-weight: bold;
     text-transform: uppercase;
+    border: 1px dashed grey;
 }
+
+#bootstrap-overrides table {
+    border: 1px dashed grey;
+}
+
 
 .title {
     font-family: 'Coiny', cursive;
