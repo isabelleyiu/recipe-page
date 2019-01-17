@@ -5,6 +5,20 @@
 }
 
 
+.tbl {
+    margin-top: 20px;
+}
+
+td {
+    text-align: center;
+}
+
+tr th{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
 .title {
     font-family: 'Coiny', cursive;
 }
