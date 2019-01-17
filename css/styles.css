@@ -36,6 +36,10 @@ ol li {
     margin-bottom: 20px;
 }
 
+ul li {
+    list-style-type: none;
+}
+
 .otherRecipes a:hover {
     color: purple;
 }
@@ -49,3 +53,7 @@ ol li {
     text-decoration-line: underline;
 }
 
+#checkbox {
+    background-color: red;
+    margin-right: 10px;
+}
