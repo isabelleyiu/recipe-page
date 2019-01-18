@@ -1,9 +1,19 @@
-#content {
-    background-color:#FAEDEC;
-    font-family: 'Roboto', sans-serif;
-
+body#bootstrap-overrides {
+    background-color: #faedec;
 }
 
+#bootstrap-overrides nav {
+    background-color: rgba(248, 249, 250, .5);
+    /* position: fixed;
+    z-index: 999;
+    width: 100%; */
+}
+
+#content {
+    /* padding-top: 75px; */
+    background-color:#faedec;
+    font-family: 'Roboto', sans-serif;
+}
 
 .tbl {
     margin-top: 20px;
